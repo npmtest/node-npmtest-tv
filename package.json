@@ -1,1 +1,39 @@
-{     "devDependencies": {         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-tv",     "homepage": "https://github.com/npmtest/node-npmtest-tv",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-tv.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  tv (v6.1.0)  [![npm package](https://img.shields.io/npm/v/npmtest-tv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tv.svg)](https://travis-ci.org/npmtest/node-npmtest-tv)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-tv",
+    "keywords": [
+        "coverage",
+        "test",
+        "tv"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_tv.js",
+    "name": "npmtest-tv",
+    "nameAlias": "npmtest_tv",
+    "nameOriginal": "npmtest-tv",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-tv.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
