@@ -1,205 +1,205 @@
 <svg height="3230" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3230" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 08:00:21 +0000  5358915 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 08:00:21 +0000      731 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 08:00:21 +0000     1650 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 08:00:21 +0000     2542 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 08:00:21 +0000      742 bytes  examples/simple.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 08:00:21 +0000   122785 bytes  images/tv-screenshot.png</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 08:00:21 +0000    55962 bytes  images/tv.png</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 08:00:21 +0000     5670 bytes  lib/index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 08:00:21 +0000   170671 bytes  log</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 08:00:21 +0000     2905 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 08:00:21 +0000   153388 bytes  public/css/style.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 08:00:21 +0000    20335 bytes  public/fonts/glyphicons-halflings-regular.eot</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 08:00:21 +0000    62926 bytes  public/fonts/glyphicons-halflings-regular.svg</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 08:00:21 +0000    41280 bytes  public/fonts/glyphicons-halflings-regular.ttf</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 08:00:21 +0000    23320 bytes  public/fonts/glyphicons-halflings-regular.woff</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 08:00:21 +0000     4036 bytes  public/js/ZeroClipboard.swf</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 08:00:21 +0000  4047043 bytes  public/js/main.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 08:00:21 +0000    20335 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 12:52:54 +0000  5360749 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 12:52:54 +0000      731 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 12:52:54 +0000     1650 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 12:52:54 +0000     2542 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 12:52:54 +0000      742 bytes  examples/simple.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 12:52:54 +0000   122785 bytes  images/tv-screenshot.png</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 12:52:54 +0000    55962 bytes  images/tv.png</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 12:52:54 +0000     5670 bytes  lib/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 12:52:54 +0000   170671 bytes  log</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 12:52:54 +0000     4739 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 12:52:54 +0000   153388 bytes  public/css/style.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 12:52:54 +0000    20335 bytes  public/fonts/glyphicons-halflings-regular.eot</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 12:52:54 +0000    62926 bytes  public/fonts/glyphicons-halflings-regular.svg</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 12:52:54 +0000    41280 bytes  public/fonts/glyphicons-halflings-regular.ttf</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 12:52:54 +0000    23320 bytes  public/fonts/glyphicons-halflings-regular.woff</tspan>
+<tspan x="10" y="266"> 15.  2017-04-25 12:52:54 +0000     4036 bytes  public/js/ZeroClipboard.swf</tspan>
+<tspan x="10" y="282"> 16.  2017-04-25 12:52:54 +0000  4047043 bytes  public/js/main.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-25 12:52:54 +0000    20335 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
 <tspan x="10" y="314">gs-regular.eot</tspan>
-<tspan x="10" y="330"> 18.  2017-04-21 08:00:21 +0000    62926 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
+<tspan x="10" y="330"> 18.  2017-04-25 12:52:54 +0000    62926 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
 <tspan x="10" y="346">gs-regular.svg</tspan>
-<tspan x="10" y="362"> 19.  2017-04-21 08:00:21 +0000    41280 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
+<tspan x="10" y="362"> 19.  2017-04-25 12:52:54 +0000    41280 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
 <tspan x="10" y="378">gs-regular.ttf</tspan>
-<tspan x="10" y="394"> 20.  2017-04-21 08:00:21 +0000    23320 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
+<tspan x="10" y="394"> 20.  2017-04-25 12:52:54 +0000    23320 bytes  source/fonts/vendor/bootstrap/glyphicons-halflin\</tspan>
 <tspan x="10" y="410">gs-regular.woff</tspan>
-<tspan x="10" y="426"> 21.  2017-04-21 08:00:21 +0000     1595 bytes  source/js/app.js</tspan>
-<tspan x="10" y="442"> 22.  2017-04-21 08:00:21 +0000     4237 bytes  source/js/messageParser.js</tspan>
-<tspan x="10" y="458"> 23.  2017-04-21 08:00:21 +0000      661 bytes  source/js/models/request.js</tspan>
-<tspan x="10" y="474"> 24.  2017-04-21 08:00:21 +0000      934 bytes  source/js/models/settings.js</tspan>
-<tspan x="10" y="490"> 25.  2017-04-21 08:00:21 +0000      442 bytes  source/js/settingsStore.js</tspan>
-<tspan x="10" y="506"> 26.  2017-04-21 08:00:21 +0000      188 bytes  source/js/templates/app.hbs</tspan>
-<tspan x="10" y="522"> 27.  2017-04-21 08:00:21 +0000      287 bytes  source/js/templates/channelSelector.hbs</tspan>
-<tspan x="10" y="538"> 28.  2017-04-21 08:00:21 +0000      342 bytes  source/js/templates/feedHeader.hbs</tspan>
-<tspan x="10" y="554"> 29.  2017-04-21 08:00:21 +0000       72 bytes  source/js/templates/request.hbs</tspan>
-<tspan x="10" y="570"> 30.  2017-04-21 08:00:21 +0000      459 bytes  source/js/templates/requestDetails.hbs</tspan>
-<tspan x="10" y="586"> 31.  2017-04-21 08:00:21 +0000      740 bytes  source/js/templates/serverLogs.hbs</tspan>
-<tspan x="10" y="602"> 32.  2017-04-21 08:00:21 +0000      811 bytes  source/js/templates/settings.hbs</tspan>
-<tspan x="10" y="618"> 33.  2017-04-21 08:00:21 +0000      563 bytes  source/js/templates/toolbar.hbs</tspan>
-<tspan x="10" y="634"> 34.  2017-04-21 08:00:21 +0000      439 bytes  source/js/utils/clientIdGenerator.js</tspan>
-<tspan x="10" y="650"> 35.  2017-04-21 08:00:21 +0000      383 bytes  source/js/utils/dateTimeFormatter.js</tspan>
-<tspan x="10" y="666"> 36.  2017-04-21 08:00:21 +0000     1200 bytes  source/js/utils/handlebarsHelpers.js</tspan>
-<tspan x="10" y="682"> 37.  2017-04-21 08:00:21 +0000      546 bytes  source/js/utils/jQuerySnippetGenerator.js</tspan>
-<tspan x="10" y="698"> 38.  2017-04-21 08:00:21 +0000     1711 bytes  source/js/utils/requestToTextConverter.js</tspan>
-<tspan x="10" y="714"> 39.  2017-04-21 08:00:21 +0000      821 bytes  source/js/utils/search/searchCriteria.js</tspan>
-<tspan x="10" y="730"> 40.  2017-04-21 08:00:21 +0000     3434 bytes  source/js/utils/search/searchCriterion.js</tspan>
-<tspan x="10" y="746"> 41.  2017-04-21 08:00:21 +0000     4236 bytes  source/js/views/app.js</tspan>
-<tspan x="10" y="762"> 42.  2017-04-21 08:00:21 +0000     1127 bytes  source/js/views/channelSelector.js</tspan>
-<tspan x="10" y="778"> 43.  2017-04-21 08:00:21 +0000     3617 bytes  source/js/views/feedBody.js</tspan>
-<tspan x="10" y="794"> 44.  2017-04-21 08:00:21 +0000     1693 bytes  source/js/views/feedHeader.js</tspan>
-<tspan x="10" y="810"> 45.  2017-04-21 08:00:21 +0000     1892 bytes  source/js/views/request.js</tspan>
-<tspan x="10" y="826"> 46.  2017-04-21 08:00:21 +0000      680 bytes  source/js/views/requestDetails.js</tspan>
-<tspan x="10" y="842"> 47.  2017-04-21 08:00:21 +0000     1971 bytes  source/js/views/serverLogs.js</tspan>
-<tspan x="10" y="858"> 48.  2017-04-21 08:00:21 +0000     2060 bytes  source/js/views/settings.js</tspan>
-<tspan x="10" y="874"> 49.  2017-04-21 08:00:21 +0000     1730 bytes  source/js/views/toolbar.js</tspan>
-<tspan x="10" y="890"> 50.  2017-04-21 08:00:21 +0000     1333 bytes  source/js/webSocketManager.js</tspan>
-<tspan x="10" y="906"> 51.  2017-04-21 08:00:21 +0000       39 bytes  source/styles/_bootstrap-overrides.scss</tspan>
-<tspan x="10" y="922"> 52.  2017-04-21 08:00:21 +0000     2130 bytes  source/styles/_colors.scss</tspan>
-<tspan x="10" y="938"> 53.  2017-04-21 08:00:21 +0000     1105 bytes  source/styles/_elements.scss</tspan>
-<tspan x="10" y="954"> 54.  2017-04-21 08:00:21 +0000      292 bytes  source/styles/_fixed-header.scss</tspan>
-<tspan x="10" y="970"> 55.  2017-04-21 08:00:21 +0000      250 bytes  source/styles/_mixins.scss</tspan>
-<tspan x="10" y="986"> 56.  2017-04-21 08:00:21 +0000     1441 bytes  source/styles/_spinner.scss</tspan>
-<tspan x="10" y="1002"> 57.  2017-04-21 08:00:21 +0000     1448 bytes  source/styles/components/_settings.scss</tspan>
-<tspan x="10" y="1018"> 58.  2017-04-21 08:00:21 +0000     1639 bytes  source/styles/components/_toolbar.scss</tspan>
-<tspan x="10" y="1034"> 59.  2017-04-21 08:00:21 +0000     1535 bytes  source/styles/components/feed/_feed.scss</tspan>
-<tspan x="10" y="1050"> 60.  2017-04-21 08:00:21 +0000     1873 bytes  source/styles/components/feed/_request.scss</tspan>
-<tspan x="10" y="1066"> 61.  2017-04-21 08:00:21 +0000     3213 bytes  source/styles/components/feed/_server-log.scss</tspan>
-<tspan x="10" y="1082"> 62.  2017-04-21 08:00:21 +0000      385 bytes  source/styles/style.scss</tspan>
-<tspan x="10" y="1098"> 63.  2017-04-21 08:00:21 +0000     1316 bytes  source/styles/vendor/_bootstrap.scss</tspan>
-<tspan x="10" y="1114"> 64.  2017-04-21 08:00:21 +0000     1545 bytes  source/styles/vendor/bootstrap/_alerts.scss</tspan>
-<tspan x="10" y="1130"> 65.  2017-04-21 08:00:21 +0000     1200 bytes  source/styles/vendor/bootstrap/_badges.scss</tspan>
-<tspan x="10" y="1146"> 66.  2017-04-21 08:00:21 +0000      595 bytes  source/styles/vendor/bootstrap/_breadcrumbs.scss</tspan>
-<tspan x="10" y="1162"> 67.  2017-04-21 08:00:21 +0000     5686 bytes  source/styles/vendor/bootstrap/_button-groups.sc\</tspan>
+<tspan x="10" y="426"> 21.  2017-04-25 12:52:54 +0000     1595 bytes  source/js/app.js</tspan>
+<tspan x="10" y="442"> 22.  2017-04-25 12:52:54 +0000     4237 bytes  source/js/messageParser.js</tspan>
+<tspan x="10" y="458"> 23.  2017-04-25 12:52:54 +0000      661 bytes  source/js/models/request.js</tspan>
+<tspan x="10" y="474"> 24.  2017-04-25 12:52:54 +0000      934 bytes  source/js/models/settings.js</tspan>
+<tspan x="10" y="490"> 25.  2017-04-25 12:52:54 +0000      442 bytes  source/js/settingsStore.js</tspan>
+<tspan x="10" y="506"> 26.  2017-04-25 12:52:54 +0000      188 bytes  source/js/templates/app.hbs</tspan>
+<tspan x="10" y="522"> 27.  2017-04-25 12:52:54 +0000      287 bytes  source/js/templates/channelSelector.hbs</tspan>
+<tspan x="10" y="538"> 28.  2017-04-25 12:52:54 +0000      342 bytes  source/js/templates/feedHeader.hbs</tspan>
+<tspan x="10" y="554"> 29.  2017-04-25 12:52:54 +0000       72 bytes  source/js/templates/request.hbs</tspan>
+<tspan x="10" y="570"> 30.  2017-04-25 12:52:54 +0000      459 bytes  source/js/templates/requestDetails.hbs</tspan>
+<tspan x="10" y="586"> 31.  2017-04-25 12:52:54 +0000      740 bytes  source/js/templates/serverLogs.hbs</tspan>
+<tspan x="10" y="602"> 32.  2017-04-25 12:52:54 +0000      811 bytes  source/js/templates/settings.hbs</tspan>
+<tspan x="10" y="618"> 33.  2017-04-25 12:52:54 +0000      563 bytes  source/js/templates/toolbar.hbs</tspan>
+<tspan x="10" y="634"> 34.  2017-04-25 12:52:54 +0000      439 bytes  source/js/utils/clientIdGenerator.js</tspan>
+<tspan x="10" y="650"> 35.  2017-04-25 12:52:54 +0000      383 bytes  source/js/utils/dateTimeFormatter.js</tspan>
+<tspan x="10" y="666"> 36.  2017-04-25 12:52:54 +0000     1200 bytes  source/js/utils/handlebarsHelpers.js</tspan>
+<tspan x="10" y="682"> 37.  2017-04-25 12:52:54 +0000      546 bytes  source/js/utils/jQuerySnippetGenerator.js</tspan>
+<tspan x="10" y="698"> 38.  2017-04-25 12:52:54 +0000     1711 bytes  source/js/utils/requestToTextConverter.js</tspan>
+<tspan x="10" y="714"> 39.  2017-04-25 12:52:54 +0000      821 bytes  source/js/utils/search/searchCriteria.js</tspan>
+<tspan x="10" y="730"> 40.  2017-04-25 12:52:54 +0000     3434 bytes  source/js/utils/search/searchCriterion.js</tspan>
+<tspan x="10" y="746"> 41.  2017-04-25 12:52:54 +0000     4236 bytes  source/js/views/app.js</tspan>
+<tspan x="10" y="762"> 42.  2017-04-25 12:52:54 +0000     1127 bytes  source/js/views/channelSelector.js</tspan>
+<tspan x="10" y="778"> 43.  2017-04-25 12:52:54 +0000     3617 bytes  source/js/views/feedBody.js</tspan>
+<tspan x="10" y="794"> 44.  2017-04-25 12:52:54 +0000     1693 bytes  source/js/views/feedHeader.js</tspan>
+<tspan x="10" y="810"> 45.  2017-04-25 12:52:54 +0000     1892 bytes  source/js/views/request.js</tspan>
+<tspan x="10" y="826"> 46.  2017-04-25 12:52:54 +0000      680 bytes  source/js/views/requestDetails.js</tspan>
+<tspan x="10" y="842"> 47.  2017-04-25 12:52:54 +0000     1971 bytes  source/js/views/serverLogs.js</tspan>
+<tspan x="10" y="858"> 48.  2017-04-25 12:52:54 +0000     2060 bytes  source/js/views/settings.js</tspan>
+<tspan x="10" y="874"> 49.  2017-04-25 12:52:54 +0000     1730 bytes  source/js/views/toolbar.js</tspan>
+<tspan x="10" y="890"> 50.  2017-04-25 12:52:54 +0000     1333 bytes  source/js/webSocketManager.js</tspan>
+<tspan x="10" y="906"> 51.  2017-04-25 12:52:54 +0000       39 bytes  source/styles/_bootstrap-overrides.scss</tspan>
+<tspan x="10" y="922"> 52.  2017-04-25 12:52:54 +0000     2130 bytes  source/styles/_colors.scss</tspan>
+<tspan x="10" y="938"> 53.  2017-04-25 12:52:54 +0000     1105 bytes  source/styles/_elements.scss</tspan>
+<tspan x="10" y="954"> 54.  2017-04-25 12:52:54 +0000      292 bytes  source/styles/_fixed-header.scss</tspan>
+<tspan x="10" y="970"> 55.  2017-04-25 12:52:54 +0000      250 bytes  source/styles/_mixins.scss</tspan>
+<tspan x="10" y="986"> 56.  2017-04-25 12:52:54 +0000     1441 bytes  source/styles/_spinner.scss</tspan>
+<tspan x="10" y="1002"> 57.  2017-04-25 12:52:54 +0000     1448 bytes  source/styles/components/_settings.scss</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-25 12:52:54 +0000     1639 bytes  source/styles/components/_toolbar.scss</tspan>
+<tspan x="10" y="1034"> 59.  2017-04-25 12:52:54 +0000     1535 bytes  source/styles/components/feed/_feed.scss</tspan>
+<tspan x="10" y="1050"> 60.  2017-04-25 12:52:54 +0000     1873 bytes  source/styles/components/feed/_request.scss</tspan>
+<tspan x="10" y="1066"> 61.  2017-04-25 12:52:54 +0000     3213 bytes  source/styles/components/feed/_server-log.scss</tspan>
+<tspan x="10" y="1082"> 62.  2017-04-25 12:52:54 +0000      385 bytes  source/styles/style.scss</tspan>
+<tspan x="10" y="1098"> 63.  2017-04-25 12:52:54 +0000     1316 bytes  source/styles/vendor/_bootstrap.scss</tspan>
+<tspan x="10" y="1114"> 64.  2017-04-25 12:52:54 +0000     1545 bytes  source/styles/vendor/bootstrap/_alerts.scss</tspan>
+<tspan x="10" y="1130"> 65.  2017-04-25 12:52:54 +0000     1200 bytes  source/styles/vendor/bootstrap/_badges.scss</tspan>
+<tspan x="10" y="1146"> 66.  2017-04-25 12:52:54 +0000      595 bytes  source/styles/vendor/bootstrap/_breadcrumbs.scss</tspan>
+<tspan x="10" y="1162"> 67.  2017-04-25 12:52:54 +0000     5686 bytes  source/styles/vendor/bootstrap/_button-groups.sc\</tspan>
 <tspan x="10" y="1178">ss</tspan>
-<tspan x="10" y="1194"> 68.  2017-04-21 08:00:21 +0000     3678 bytes  source/styles/vendor/bootstrap/_buttons.scss</tspan>
-<tspan x="10" y="1210"> 69.  2017-04-21 08:00:21 +0000     5350 bytes  source/styles/vendor/bootstrap/_carousel.scss</tspan>
-<tspan x="10" y="1226"> 70.  2017-04-21 08:00:21 +0000      736 bytes  source/styles/vendor/bootstrap/_close.scss</tspan>
-<tspan x="10" y="1242"> 71.  2017-04-21 08:00:21 +0000     1401 bytes  source/styles/vendor/bootstrap/_code.scss</tspan>
-<tspan x="10" y="1258"> 72.  2017-04-21 08:00:21 +0000      862 bytes  source/styles/vendor/bootstrap/_component-animat\</tspan>
+<tspan x="10" y="1194"> 68.  2017-04-25 12:52:54 +0000     3678 bytes  source/styles/vendor/bootstrap/_buttons.scss</tspan>
+<tspan x="10" y="1210"> 69.  2017-04-25 12:52:54 +0000     5350 bytes  source/styles/vendor/bootstrap/_carousel.scss</tspan>
+<tspan x="10" y="1226"> 70.  2017-04-25 12:52:54 +0000      736 bytes  source/styles/vendor/bootstrap/_close.scss</tspan>
+<tspan x="10" y="1242"> 71.  2017-04-25 12:52:54 +0000     1401 bytes  source/styles/vendor/bootstrap/_code.scss</tspan>
+<tspan x="10" y="1258"> 72.  2017-04-25 12:52:54 +0000      862 bytes  source/styles/vendor/bootstrap/_component-animat\</tspan>
 <tspan x="10" y="1274">ions.scss</tspan>
-<tspan x="10" y="1290"> 73.  2017-04-21 08:00:21 +0000     4773 bytes  source/styles/vendor/bootstrap/_dropdowns.scss</tspan>
-<tspan x="10" y="1306"> 74.  2017-04-21 08:00:21 +0000    14511 bytes  source/styles/vendor/bootstrap/_forms.scss</tspan>
-<tspan x="10" y="1322"> 75.  2017-04-21 08:00:21 +0000    15389 bytes  source/styles/vendor/bootstrap/_glyphicons.scss</tspan>
-<tspan x="10" y="1338"> 76.  2017-04-21 08:00:21 +0000     1443 bytes  source/styles/vendor/bootstrap/_grid.scss</tspan>
-<tspan x="10" y="1354"> 77.  2017-04-21 08:00:21 +0000     4243 bytes  source/styles/vendor/bootstrap/_input-groups.scs\</tspan>
+<tspan x="10" y="1290"> 73.  2017-04-25 12:52:54 +0000     4773 bytes  source/styles/vendor/bootstrap/_dropdowns.scss</tspan>
+<tspan x="10" y="1306"> 74.  2017-04-25 12:52:54 +0000    14511 bytes  source/styles/vendor/bootstrap/_forms.scss</tspan>
+<tspan x="10" y="1322"> 75.  2017-04-25 12:52:54 +0000    15389 bytes  source/styles/vendor/bootstrap/_glyphicons.scss</tspan>
+<tspan x="10" y="1338"> 76.  2017-04-25 12:52:54 +0000     1443 bytes  source/styles/vendor/bootstrap/_grid.scss</tspan>
+<tspan x="10" y="1354"> 77.  2017-04-25 12:52:54 +0000     4243 bytes  source/styles/vendor/bootstrap/_input-groups.scs\</tspan>
 <tspan x="10" y="1370">s</tspan>
-<tspan x="10" y="1386"> 78.  2017-04-21 08:00:21 +0000      983 bytes  source/styles/vendor/bootstrap/_jumbotron.scss</tspan>
-<tspan x="10" y="1402"> 79.  2017-04-21 08:00:21 +0000     1156 bytes  source/styles/vendor/bootstrap/_labels.scss</tspan>
-<tspan x="10" y="1418"> 80.  2017-04-21 08:00:21 +0000     3070 bytes  source/styles/vendor/bootstrap/_list-group.scss</tspan>
-<tspan x="10" y="1434"> 81.  2017-04-21 08:00:21 +0000      652 bytes  source/styles/vendor/bootstrap/_media.scss</tspan>
-<tspan x="10" y="1450"> 82.  2017-04-21 08:00:21 +0000      957 bytes  source/styles/vendor/bootstrap/_mixins.scss</tspan>
-<tspan x="10" y="1466"> 83.  2017-04-21 08:00:21 +0000     3565 bytes  source/styles/vendor/bootstrap/_modals.scss</tspan>
-<tspan x="10" y="1482"> 84.  2017-04-21 08:00:21 +0000    14747 bytes  source/styles/vendor/bootstrap/_navbar.scss</tspan>
-<tspan x="10" y="1498"> 85.  2017-04-21 08:00:21 +0000     4999 bytes  source/styles/vendor/bootstrap/_navs.scss</tspan>
-<tspan x="10" y="1514"> 86.  2017-04-21 08:00:21 +0000     7650 bytes  source/styles/vendor/bootstrap/_normalize.scss</tspan>
-<tspan x="10" y="1530"> 87.  2017-04-21 08:00:21 +0000      855 bytes  source/styles/vendor/bootstrap/_pager.scss</tspan>
-<tspan x="10" y="1546"> 88.  2017-04-21 08:00:21 +0000     2033 bytes  source/styles/vendor/bootstrap/_pagination.scss</tspan>
-<tspan x="10" y="1562"> 89.  2017-04-21 08:00:21 +0000     6195 bytes  source/styles/vendor/bootstrap/_panels.scss</tspan>
-<tspan x="10" y="1578"> 90.  2017-04-21 08:00:21 +0000     3516 bytes  source/styles/vendor/bootstrap/_popovers.scss</tspan>
-<tspan x="10" y="1594"> 91.  2017-04-21 08:00:21 +0000     2133 bytes  source/styles/vendor/bootstrap/_print.scss</tspan>
-<tspan x="10" y="1610"> 92.  2017-04-21 08:00:21 +0000     1992 bytes  source/styles/vendor/bootstrap/_progress-bars.sc\</tspan>
+<tspan x="10" y="1386"> 78.  2017-04-25 12:52:54 +0000      983 bytes  source/styles/vendor/bootstrap/_jumbotron.scss</tspan>
+<tspan x="10" y="1402"> 79.  2017-04-25 12:52:54 +0000     1156 bytes  source/styles/vendor/bootstrap/_labels.scss</tspan>
+<tspan x="10" y="1418"> 80.  2017-04-25 12:52:54 +0000     3070 bytes  source/styles/vendor/bootstrap/_list-group.scss</tspan>
+<tspan x="10" y="1434"> 81.  2017-04-25 12:52:54 +0000      652 bytes  source/styles/vendor/bootstrap/_media.scss</tspan>
+<tspan x="10" y="1450"> 82.  2017-04-25 12:52:54 +0000      957 bytes  source/styles/vendor/bootstrap/_mixins.scss</tspan>
+<tspan x="10" y="1466"> 83.  2017-04-25 12:52:54 +0000     3565 bytes  source/styles/vendor/bootstrap/_modals.scss</tspan>
+<tspan x="10" y="1482"> 84.  2017-04-25 12:52:54 +0000    14747 bytes  source/styles/vendor/bootstrap/_navbar.scss</tspan>
+<tspan x="10" y="1498"> 85.  2017-04-25 12:52:54 +0000     4999 bytes  source/styles/vendor/bootstrap/_navs.scss</tspan>
+<tspan x="10" y="1514"> 86.  2017-04-25 12:52:54 +0000     7650 bytes  source/styles/vendor/bootstrap/_normalize.scss</tspan>
+<tspan x="10" y="1530"> 87.  2017-04-25 12:52:54 +0000      855 bytes  source/styles/vendor/bootstrap/_pager.scss</tspan>
+<tspan x="10" y="1546"> 88.  2017-04-25 12:52:54 +0000     2033 bytes  source/styles/vendor/bootstrap/_pagination.scss</tspan>
+<tspan x="10" y="1562"> 89.  2017-04-25 12:52:54 +0000     6195 bytes  source/styles/vendor/bootstrap/_panels.scss</tspan>
+<tspan x="10" y="1578"> 90.  2017-04-25 12:52:54 +0000     3516 bytes  source/styles/vendor/bootstrap/_popovers.scss</tspan>
+<tspan x="10" y="1594"> 91.  2017-04-25 12:52:54 +0000     2133 bytes  source/styles/vendor/bootstrap/_print.scss</tspan>
+<tspan x="10" y="1610"> 92.  2017-04-25 12:52:54 +0000     1992 bytes  source/styles/vendor/bootstrap/_progress-bars.sc\</tspan>
 <tspan x="10" y="1626">ss</tspan>
-<tspan x="10" y="1642"> 93.  2017-04-21 08:00:21 +0000      564 bytes  source/styles/vendor/bootstrap/_responsive-embed\</tspan>
+<tspan x="10" y="1642"> 93.  2017-04-25 12:52:54 +0000      564 bytes  source/styles/vendor/bootstrap/_responsive-embed\</tspan>
 <tspan x="10" y="1658">.scss</tspan>
-<tspan x="10" y="1674"> 94.  2017-04-21 08:00:21 +0000     4390 bytes  source/styles/vendor/bootstrap/_responsive-utili\</tspan>
+<tspan x="10" y="1674"> 94.  2017-04-25 12:52:54 +0000     4390 bytes  source/styles/vendor/bootstrap/_responsive-utili\</tspan>
 <tspan x="10" y="1690">ties.scss</tspan>
-<tspan x="10" y="1706"> 95.  2017-04-21 08:00:21 +0000     2700 bytes  source/styles/vendor/bootstrap/_scaffolding.scss</tspan>
-<tspan x="10" y="1722"> 96.  2017-04-21 08:00:21 +0000     4660 bytes  source/styles/vendor/bootstrap/_tables.scss</tspan>
-<tspan x="10" y="1738"> 97.  2017-04-21 08:00:21 +0000     8047 bytes  source/styles/vendor/bootstrap/_theme.scss</tspan>
-<tspan x="10" y="1754"> 98.  2017-04-21 08:00:21 +0000      892 bytes  source/styles/vendor/bootstrap/_thumbnails.scss</tspan>
-<tspan x="10" y="1770"> 99.  2017-04-21 08:00:21 +0000     2975 bytes  source/styles/vendor/bootstrap/_tooltip.scss</tspan>
-<tspan x="10" y="1786">100.  2017-04-21 08:00:21 +0000     6148 bytes  source/styles/vendor/bootstrap/_type.scss</tspan>
-<tspan x="10" y="1802">101.  2017-04-21 08:00:21 +0000      798 bytes  source/styles/vendor/bootstrap/_utilities.scss</tspan>
-<tspan x="10" y="1818">102.  2017-04-21 08:00:21 +0000    30745 bytes  source/styles/vendor/bootstrap/_variables.scss</tspan>
-<tspan x="10" y="1834">103.  2017-04-21 08:00:21 +0000      535 bytes  source/styles/vendor/bootstrap/_wells.scss</tspan>
-<tspan x="10" y="1850">104.  2017-04-21 08:00:21 +0000      263 bytes  source/styles/vendor/bootstrap/mixins/_alerts.sc\</tspan>
+<tspan x="10" y="1706"> 95.  2017-04-25 12:52:54 +0000     2700 bytes  source/styles/vendor/bootstrap/_scaffolding.scss</tspan>
+<tspan x="10" y="1722"> 96.  2017-04-25 12:52:54 +0000     4660 bytes  source/styles/vendor/bootstrap/_tables.scss</tspan>
+<tspan x="10" y="1738"> 97.  2017-04-25 12:52:54 +0000     8047 bytes  source/styles/vendor/bootstrap/_theme.scss</tspan>
+<tspan x="10" y="1754"> 98.  2017-04-25 12:52:54 +0000      892 bytes  source/styles/vendor/bootstrap/_thumbnails.scss</tspan>
+<tspan x="10" y="1770"> 99.  2017-04-25 12:52:54 +0000     2975 bytes  source/styles/vendor/bootstrap/_tooltip.scss</tspan>
+<tspan x="10" y="1786">100.  2017-04-25 12:52:54 +0000     6148 bytes  source/styles/vendor/bootstrap/_type.scss</tspan>
+<tspan x="10" y="1802">101.  2017-04-25 12:52:54 +0000      798 bytes  source/styles/vendor/bootstrap/_utilities.scss</tspan>
+<tspan x="10" y="1818">102.  2017-04-25 12:52:54 +0000    30745 bytes  source/styles/vendor/bootstrap/_variables.scss</tspan>
+<tspan x="10" y="1834">103.  2017-04-25 12:52:54 +0000      535 bytes  source/styles/vendor/bootstrap/_wells.scss</tspan>
+<tspan x="10" y="1850">104.  2017-04-25 12:52:54 +0000      263 bytes  source/styles/vendor/bootstrap/mixins/_alerts.sc\</tspan>
 <tspan x="10" y="1866">ss</tspan>
-<tspan x="10" y="1882">105.  2017-04-21 08:00:21 +0000      212 bytes  source/styles/vendor/bootstrap/mixins/_backgroun\</tspan>
+<tspan x="10" y="1882">105.  2017-04-25 12:52:54 +0000      212 bytes  source/styles/vendor/bootstrap/mixins/_backgroun\</tspan>
 <tspan x="10" y="1898">d-variant.scss</tspan>
-<tspan x="10" y="1914">106.  2017-04-21 08:00:21 +0000      492 bytes  source/styles/vendor/bootstrap/mixins/_border-ra\</tspan>
+<tspan x="10" y="1914">106.  2017-04-25 12:52:54 +0000      492 bytes  source/styles/vendor/bootstrap/mixins/_border-ra\</tspan>
 <tspan x="10" y="1930">dius.scss</tspan>
-<tspan x="10" y="1946">107.  2017-04-21 08:00:21 +0000     1092 bytes  source/styles/vendor/bootstrap/mixins/_buttons.s\</tspan>
+<tspan x="10" y="1946">107.  2017-04-25 12:52:54 +0000     1092 bytes  source/styles/vendor/bootstrap/mixins/_buttons.s\</tspan>
 <tspan x="10" y="1962">css</tspan>
-<tspan x="10" y="1978">108.  2017-04-21 08:00:21 +0000      126 bytes  source/styles/vendor/bootstrap/mixins/_center-bl\</tspan>
+<tspan x="10" y="1978">108.  2017-04-25 12:52:54 +0000      126 bytes  source/styles/vendor/bootstrap/mixins/_center-bl\</tspan>
 <tspan x="10" y="1994">ock.scss</tspan>
-<tspan x="10" y="2010">109.  2017-04-21 08:00:21 +0000      611 bytes  source/styles/vendor/bootstrap/mixins/_clearfix.\</tspan>
+<tspan x="10" y="2010">109.  2017-04-25 12:52:54 +0000      611 bytes  source/styles/vendor/bootstrap/mixins/_clearfix.\</tspan>
 <tspan x="10" y="2026">scss</tspan>
-<tspan x="10" y="2042">110.  2017-04-21 08:00:21 +0000     2771 bytes  source/styles/vendor/bootstrap/mixins/_forms.scs\</tspan>
+<tspan x="10" y="2042">110.  2017-04-25 12:52:54 +0000     2771 bytes  source/styles/vendor/bootstrap/mixins/_forms.scs\</tspan>
 <tspan x="10" y="2058">s</tspan>
-<tspan x="10" y="2074">111.  2017-04-21 08:00:21 +0000     4392 bytes  source/styles/vendor/bootstrap/mixins/_gradients\</tspan>
+<tspan x="10" y="2074">111.  2017-04-25 12:52:54 +0000     4392 bytes  source/styles/vendor/bootstrap/mixins/_gradients\</tspan>
 <tspan x="10" y="2090">.scss</tspan>
-<tspan x="10" y="2106">112.  2017-04-21 08:00:21 +0000     2347 bytes  source/styles/vendor/bootstrap/mixins/_grid-fram\</tspan>
+<tspan x="10" y="2106">112.  2017-04-25 12:52:54 +0000     2347 bytes  source/styles/vendor/bootstrap/mixins/_grid-fram\</tspan>
 <tspan x="10" y="2122">ework.scss</tspan>
-<tspan x="10" y="2138">113.  2017-04-21 08:00:21 +0000     3190 bytes  source/styles/vendor/bootstrap/mixins/_grid.scss</tspan>
-<tspan x="10" y="2154">114.  2017-04-21 08:00:21 +0000      597 bytes  source/styles/vendor/bootstrap/mixins/_hide-text\</tspan>
+<tspan x="10" y="2138">113.  2017-04-25 12:52:54 +0000     3190 bytes  source/styles/vendor/bootstrap/mixins/_grid.scss</tspan>
+<tspan x="10" y="2154">114.  2017-04-25 12:52:54 +0000      597 bytes  source/styles/vendor/bootstrap/mixins/_hide-text\</tspan>
 <tspan x="10" y="2170">.scss</tspan>
-<tspan x="10" y="2186">115.  2017-04-21 08:00:21 +0000     1208 bytes  source/styles/vendor/bootstrap/mixins/_image.scs\</tspan>
+<tspan x="10" y="2186">115.  2017-04-25 12:52:54 +0000     1208 bytes  source/styles/vendor/bootstrap/mixins/_image.scs\</tspan>
 <tspan x="10" y="2202">s</tspan>
-<tspan x="10" y="2218">116.  2017-04-21 08:00:21 +0000      167 bytes  source/styles/vendor/bootstrap/mixins/_labels.sc\</tspan>
+<tspan x="10" y="2218">116.  2017-04-25 12:52:54 +0000      167 bytes  source/styles/vendor/bootstrap/mixins/_labels.sc\</tspan>
 <tspan x="10" y="2234">ss</tspan>
-<tspan x="10" y="2250">117.  2017-04-21 08:00:21 +0000      593 bytes  source/styles/vendor/bootstrap/mixins/_list-grou\</tspan>
+<tspan x="10" y="2250">117.  2017-04-25 12:52:54 +0000      593 bytes  source/styles/vendor/bootstrap/mixins/_list-grou\</tspan>
 <tspan x="10" y="2266">p.scss</tspan>
-<tspan x="10" y="2282">118.  2017-04-21 08:00:21 +0000      238 bytes  source/styles/vendor/bootstrap/mixins/_nav-divid\</tspan>
+<tspan x="10" y="2282">118.  2017-04-25 12:52:54 +0000      238 bytes  source/styles/vendor/bootstrap/mixins/_nav-divid\</tspan>
 <tspan x="10" y="2298">er.scss</tspan>
-<tspan x="10" y="2314">119.  2017-04-21 08:00:21 +0000      370 bytes  source/styles/vendor/bootstrap/mixins/_nav-verti\</tspan>
+<tspan x="10" y="2314">119.  2017-04-25 12:52:54 +0000      370 bytes  source/styles/vendor/bootstrap/mixins/_nav-verti\</tspan>
 <tspan x="10" y="2330">cal-align.scss</tspan>
-<tspan x="10" y="2346">120.  2017-04-21 08:00:21 +0000      152 bytes  source/styles/vendor/bootstrap/mixins/_opacity.s\</tspan>
+<tspan x="10" y="2346">120.  2017-04-25 12:52:54 +0000      152 bytes  source/styles/vendor/bootstrap/mixins/_opacity.s\</tspan>
 <tspan x="10" y="2362">css</tspan>
-<tspan x="10" y="2378">121.  2017-04-21 08:00:21 +0000      460 bytes  source/styles/vendor/bootstrap/mixins/_paginatio\</tspan>
+<tspan x="10" y="2378">121.  2017-04-25 12:52:54 +0000      460 bytes  source/styles/vendor/bootstrap/mixins/_paginatio\</tspan>
 <tspan x="10" y="2394">n.scss</tspan>
-<tspan x="10" y="2410">122.  2017-04-21 08:00:21 +0000      543 bytes  source/styles/vendor/bootstrap/mixins/_panels.sc\</tspan>
+<tspan x="10" y="2410">122.  2017-04-25 12:52:54 +0000      543 bytes  source/styles/vendor/bootstrap/mixins/_panels.sc\</tspan>
 <tspan x="10" y="2426">ss</tspan>
-<tspan x="10" y="2442">123.  2017-04-21 08:00:21 +0000      200 bytes  source/styles/vendor/bootstrap/mixins/_progress-\</tspan>
+<tspan x="10" y="2442">123.  2017-04-25 12:52:54 +0000      200 bytes  source/styles/vendor/bootstrap/mixins/_progress-\</tspan>
 <tspan x="10" y="2458">bar.scss</tspan>
-<tspan x="10" y="2474">124.  2017-04-21 08:00:21 +0000      246 bytes  source/styles/vendor/bootstrap/mixins/_reset-fil\</tspan>
+<tspan x="10" y="2474">124.  2017-04-25 12:52:54 +0000      246 bytes  source/styles/vendor/bootstrap/mixins/_reset-fil\</tspan>
 <tspan x="10" y="2490">ter.scss</tspan>
-<tspan x="10" y="2506">125.  2017-04-21 08:00:21 +0000      202 bytes  source/styles/vendor/bootstrap/mixins/_resize.sc\</tspan>
+<tspan x="10" y="2506">125.  2017-04-25 12:52:54 +0000      202 bytes  source/styles/vendor/bootstrap/mixins/_resize.sc\</tspan>
 <tspan x="10" y="2522">ss</tspan>
-<tspan x="10" y="2538">126.  2017-04-21 08:00:21 +0000      503 bytes  source/styles/vendor/bootstrap/mixins/_responsiv\</tspan>
+<tspan x="10" y="2538">126.  2017-04-25 12:52:54 +0000      503 bytes  source/styles/vendor/bootstrap/mixins/_responsiv\</tspan>
 <tspan x="10" y="2554">e-visibility.scss</tspan>
-<tspan x="10" y="2570">127.  2017-04-21 08:00:21 +0000      147 bytes  source/styles/vendor/bootstrap/mixins/_size.scss</tspan>
-<tspan x="10" y="2586">128.  2017-04-21 08:00:21 +0000      165 bytes  source/styles/vendor/bootstrap/mixins/_tab-focus\</tspan>
+<tspan x="10" y="2570">127.  2017-04-25 12:52:54 +0000      147 bytes  source/styles/vendor/bootstrap/mixins/_size.scss</tspan>
+<tspan x="10" y="2586">128.  2017-04-25 12:52:54 +0000      165 bytes  source/styles/vendor/bootstrap/mixins/_tab-focus\</tspan>
 <tspan x="10" y="2602">.scss</tspan>
-<tspan x="10" y="2618">129.  2017-04-21 08:00:21 +0000      715 bytes  source/styles/vendor/bootstrap/mixins/_table-row\</tspan>
+<tspan x="10" y="2618">129.  2017-04-25 12:52:54 +0000      715 bytes  source/styles/vendor/bootstrap/mixins/_table-row\</tspan>
 <tspan x="10" y="2634">.scss</tspan>
-<tspan x="10" y="2650">130.  2017-04-21 08:00:21 +0000      189 bytes  source/styles/vendor/bootstrap/mixins/_text-emph\</tspan>
+<tspan x="10" y="2650">130.  2017-04-25 12:52:54 +0000      189 bytes  source/styles/vendor/bootstrap/mixins/_text-emph\</tspan>
 <tspan x="10" y="2666">asis.scss</tspan>
-<tspan x="10" y="2682">131.  2017-04-21 08:00:21 +0000      168 bytes  source/styles/vendor/bootstrap/mixins/_text-over\</tspan>
+<tspan x="10" y="2682">131.  2017-04-25 12:52:54 +0000      168 bytes  source/styles/vendor/bootstrap/mixins/_text-over\</tspan>
 <tspan x="10" y="2698">flow.scss</tspan>
-<tspan x="10" y="2714">132.  2017-04-21 08:00:21 +0000     6598 bytes  source/styles/vendor/bootstrap/mixins/_vendor-pr\</tspan>
+<tspan x="10" y="2714">132.  2017-04-25 12:52:54 +0000     6598 bytes  source/styles/vendor/bootstrap/mixins/_vendor-pr\</tspan>
 <tspan x="10" y="2730">efixes.scss</tspan>
-<tspan x="10" y="2746">133.  2017-04-21 08:00:21 +0000   149795 bytes  style.css</tspan>
-<tspan x="10" y="2762">134.  2017-04-21 08:00:21 +0000      780 bytes  templates/index.html</tspan>
-<tspan x="10" y="2778">135.  2017-04-21 08:00:21 +0000     3155 bytes  test/client/app.js</tspan>
-<tspan x="10" y="2794">136.  2017-04-21 08:00:21 +0000      519 bytes  test/client/index.html</tspan>
-<tspan x="10" y="2810">137.  2017-04-21 08:00:21 +0000     1056 bytes  test/client/main.js</tspan>
-<tspan x="10" y="2826">138.  2017-04-21 08:00:21 +0000     9274 bytes  test/client/messageParser.js</tspan>
-<tspan x="10" y="2842">139.  2017-04-21 08:00:21 +0000     1608 bytes  test/client/models/request.js</tspan>
-<tspan x="10" y="2858">140.  2017-04-21 08:00:21 +0000     2218 bytes  test/client/models/settings.js</tspan>
-<tspan x="10" y="2874">141.  2017-04-21 08:00:21 +0000      632 bytes  test/client/phantomHooks.js</tspan>
-<tspan x="10" y="2890">142.  2017-04-21 08:00:21 +0000     1070 bytes  test/client/settingsStore.js</tspan>
-<tspan x="10" y="2906">143.  2017-04-21 08:00:21 +0000      938 bytes  test/client/utils/clientIdGenerator.js</tspan>
-<tspan x="10" y="2922">144.  2017-04-21 08:00:21 +0000      753 bytes  test/client/utils/dateTimeFormatter.js</tspan>
-<tspan x="10" y="2938">145.  2017-04-21 08:00:21 +0000     2938 bytes  test/client/utils/handlebarsHelpers.js</tspan>
-<tspan x="10" y="2954">146.  2017-04-21 08:00:21 +0000      556 bytes  test/client/utils/jQuerySnippetGenerator.js</tspan>
-<tspan x="10" y="2970">147.  2017-04-21 08:00:21 +0000     1737 bytes  test/client/utils/requestToTextConverter.js</tspan>
-<tspan x="10" y="2986">148.  2017-04-21 08:00:21 +0000     2677 bytes  test/client/utils/search/searchCriteria.js</tspan>
-<tspan x="10" y="3002">149.  2017-04-21 08:00:21 +0000     9540 bytes  test/client/utils/search/searchCriterion.js</tspan>
-<tspan x="10" y="3018">150.  2017-04-21 08:00:21 +0000     3847 bytes  test/client/views/app.js</tspan>
-<tspan x="10" y="3034">151.  2017-04-21 08:00:21 +0000     3004 bytes  test/client/views/channelSelector.js</tspan>
-<tspan x="10" y="3050">152.  2017-04-21 08:00:21 +0000     2898 bytes  test/client/views/feedBody.js</tspan>
-<tspan x="10" y="3066">153.  2017-04-21 08:00:21 +0000     1530 bytes  test/client/views/feedHeader.js</tspan>
-<tspan x="10" y="3082">154.  2017-04-21 08:00:21 +0000     6030 bytes  test/client/views/request.js</tspan>
-<tspan x="10" y="3098">155.  2017-04-21 08:00:21 +0000      626 bytes  test/client/views/requestDetails.js</tspan>
-<tspan x="10" y="3114">156.  2017-04-21 08:00:21 +0000     3009 bytes  test/client/views/serverLogs.js</tspan>
-<tspan x="10" y="3130">157.  2017-04-21 08:00:21 +0000     1108 bytes  test/client/views/settings.js</tspan>
-<tspan x="10" y="3146">158.  2017-04-21 08:00:21 +0000      736 bytes  test/client/views/toolbar.js</tspan>
-<tspan x="10" y="3162">159.  2017-04-21 08:00:21 +0000     3021 bytes  test/client/webSocketManager.js</tspan>
-<tspan x="10" y="3178">160.  2017-04-21 08:00:21 +0000    10964 bytes  test/index.js</tspan>
-<tspan x="10" y="3194">161.  2017-04-21 08:00:21 +0000     4036 bytes  vendor/ZeroClipboard.swf</tspan>
-<tspan x="10" y="3210">162.  2017-04-21 08:00:21 +0000      817 bytes  vendor/styles/prettify.scss</tspan>
+<tspan x="10" y="2746">133.  2017-04-25 12:52:54 +0000   149795 bytes  style.css</tspan>
+<tspan x="10" y="2762">134.  2017-04-25 12:52:54 +0000      780 bytes  templates/index.html</tspan>
+<tspan x="10" y="2778">135.  2017-04-25 12:52:54 +0000     3155 bytes  test/client/app.js</tspan>
+<tspan x="10" y="2794">136.  2017-04-25 12:52:54 +0000      519 bytes  test/client/index.html</tspan>
+<tspan x="10" y="2810">137.  2017-04-25 12:52:54 +0000     1056 bytes  test/client/main.js</tspan>
+<tspan x="10" y="2826">138.  2017-04-25 12:52:54 +0000     9274 bytes  test/client/messageParser.js</tspan>
+<tspan x="10" y="2842">139.  2017-04-25 12:52:54 +0000     1608 bytes  test/client/models/request.js</tspan>
+<tspan x="10" y="2858">140.  2017-04-25 12:52:54 +0000     2218 bytes  test/client/models/settings.js</tspan>
+<tspan x="10" y="2874">141.  2017-04-25 12:52:54 +0000      632 bytes  test/client/phantomHooks.js</tspan>
+<tspan x="10" y="2890">142.  2017-04-25 12:52:54 +0000     1070 bytes  test/client/settingsStore.js</tspan>
+<tspan x="10" y="2906">143.  2017-04-25 12:52:54 +0000      938 bytes  test/client/utils/clientIdGenerator.js</tspan>
+<tspan x="10" y="2922">144.  2017-04-25 12:52:54 +0000      753 bytes  test/client/utils/dateTimeFormatter.js</tspan>
+<tspan x="10" y="2938">145.  2017-04-25 12:52:54 +0000     2938 bytes  test/client/utils/handlebarsHelpers.js</tspan>
+<tspan x="10" y="2954">146.  2017-04-25 12:52:54 +0000      556 bytes  test/client/utils/jQuerySnippetGenerator.js</tspan>
+<tspan x="10" y="2970">147.  2017-04-25 12:52:54 +0000     1737 bytes  test/client/utils/requestToTextConverter.js</tspan>
+<tspan x="10" y="2986">148.  2017-04-25 12:52:54 +0000     2677 bytes  test/client/utils/search/searchCriteria.js</tspan>
+<tspan x="10" y="3002">149.  2017-04-25 12:52:54 +0000     9540 bytes  test/client/utils/search/searchCriterion.js</tspan>
+<tspan x="10" y="3018">150.  2017-04-25 12:52:54 +0000     3847 bytes  test/client/views/app.js</tspan>
+<tspan x="10" y="3034">151.  2017-04-25 12:52:54 +0000     3004 bytes  test/client/views/channelSelector.js</tspan>
+<tspan x="10" y="3050">152.  2017-04-25 12:52:54 +0000     2898 bytes  test/client/views/feedBody.js</tspan>
+<tspan x="10" y="3066">153.  2017-04-25 12:52:54 +0000     1530 bytes  test/client/views/feedHeader.js</tspan>
+<tspan x="10" y="3082">154.  2017-04-25 12:52:54 +0000     6030 bytes  test/client/views/request.js</tspan>
+<tspan x="10" y="3098">155.  2017-04-25 12:52:54 +0000      626 bytes  test/client/views/requestDetails.js</tspan>
+<tspan x="10" y="3114">156.  2017-04-25 12:52:54 +0000     3009 bytes  test/client/views/serverLogs.js</tspan>
+<tspan x="10" y="3130">157.  2017-04-25 12:52:54 +0000     1108 bytes  test/client/views/settings.js</tspan>
+<tspan x="10" y="3146">158.  2017-04-25 12:52:54 +0000      736 bytes  test/client/views/toolbar.js</tspan>
+<tspan x="10" y="3162">159.  2017-04-25 12:52:54 +0000     3021 bytes  test/client/webSocketManager.js</tspan>
+<tspan x="10" y="3178">160.  2017-04-25 12:52:54 +0000    10964 bytes  test/index.js</tspan>
+<tspan x="10" y="3194">161.  2017-04-25 12:52:54 +0000     4036 bytes  vendor/ZeroClipboard.swf</tspan>
+<tspan x="10" y="3210">162.  2017-04-25 12:52:54 +0000      817 bytes  vendor/styles/prettify.scss</tspan>
 </text>
 </svg>
